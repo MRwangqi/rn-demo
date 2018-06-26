@@ -58,7 +58,7 @@ const bottomNav = TabNavigator({
         },
         Profile: {
             screen: Profile, navigationOptions: ({navigation}) => ({
-                tabBarLabel: '首页',
+                tabBarLabel: '我的',
                 tabBarIcon: ({focused, tintColor}) => (
                     <TabBarItem
                         tintColor={tintColor}
@@ -77,8 +77,8 @@ const bottomNav = TabNavigator({
         animationEnabled: false,
         lazy: true,
         tabBarOptions: {
-            activeTintColor: '#0161a1',
-            inactiveTintColor: '#979797',
+            activeTintColor: '#d81e06',
+            inactiveTintColor: '#bfbfbf',
             style: {backgroundColor: '#f1f1f1', height: 40},
             labelStyle: {
                 fontSize: 12, // 文字大小
