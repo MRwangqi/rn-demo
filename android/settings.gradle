@@ -1,0 +1,3 @@
+rootProject.name = 'react_navigation_demo'
+
+include ':app'
