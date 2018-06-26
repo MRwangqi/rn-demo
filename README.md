@@ -3,6 +3,8 @@ fetch、FlatList、wanandroid、webview、react-navigation、react-native-scroll
 
 # screen pic
 
-![]("screen/1.png")
+![pic](screen/pic1.jpg)
+
+![pic](screen/2.jpg)
 
 
